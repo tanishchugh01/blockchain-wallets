@@ -1,0 +1,27 @@
+{
+  "name": "blockchain-wallets",
+  "version": "1.0.0",
+  "description": "Operations on bitcoin wallets",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tanishchugh01/blockchain-wallets.git"
+  },
+  "keywords": [
+    "blockchain",
+    "wallets"
+  ],
+  "author": "tanishchugh01@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tanishchugh01/blockchain-wallets/issues"
+  },
+  "homepage": "https://github.com/tanishchugh01/blockchain-wallets#readme",
+  "dependencies": {
+    "axios": "^1.5.0"
+  }
+}
