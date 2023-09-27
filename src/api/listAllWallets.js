@@ -1,4 +1,3 @@
-// listAllWallets.js
 import loadWallets from "../methods/loadWallets.js";
 
 const listAllWallets = () => {
