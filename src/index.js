@@ -30,5 +30,5 @@ const main = async () => {
   // const unusedAddress = await apis.getUnusedAddress("justWallet");
 };
 
-main();
 console.log("Hello Tanish!");
+main();
